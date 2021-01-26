@@ -1,0 +1,16 @@
+D:\trabajosCurso\POO\bin\Debug\net5.0\POO.exe
+D:\trabajosCurso\POO\bin\Debug\net5.0\POO.deps.json
+D:\trabajosCurso\POO\bin\Debug\net5.0\POO.runtimeconfig.json
+D:\trabajosCurso\POO\bin\Debug\net5.0\POO.runtimeconfig.dev.json
+D:\trabajosCurso\POO\bin\Debug\net5.0\POO.dll
+D:\trabajosCurso\POO\bin\Debug\net5.0\ref\POO.dll
+D:\trabajosCurso\POO\bin\Debug\net5.0\POO.pdb
+D:\trabajosCurso\POO\obj\Debug\net5.0\POO.csprojAssemblyReference.cache
+D:\trabajosCurso\POO\obj\Debug\net5.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajosCurso\POO\obj\Debug\net5.0\POO.AssemblyInfoInputs.cache
+D:\trabajosCurso\POO\obj\Debug\net5.0\POO.AssemblyInfo.cs
+D:\trabajosCurso\POO\obj\Debug\net5.0\POO.csproj.CoreCompileInputs.cache
+D:\trabajosCurso\POO\obj\Debug\net5.0\POO.dll
+D:\trabajosCurso\POO\obj\Debug\net5.0\ref\POO.dll
+D:\trabajosCurso\POO\obj\Debug\net5.0\POO.pdb
+D:\trabajosCurso\POO\obj\Debug\net5.0\POO.genruntimeconfig.cache
